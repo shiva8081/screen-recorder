@@ -14,8 +14,8 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 
 1. Clone or Download the repository
    ```
-   $ git clone https://github.com/yshplsngh/ScreenRecorder
-   $ cd ScreenRecorder
+   $ git clone https://github.com/shiva8081/screen-recorder
+   $ cd screen-recorder
    ```
 
 2. Install Dependencies
